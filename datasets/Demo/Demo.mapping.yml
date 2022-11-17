@@ -1,0 +1,10 @@
+Insert Contact:
+  sf_object: Contact
+  table: Contact
+  fields:
+  - FirstName
+  - LastName
+  - Is_Test__c
+  - DoNotCall
+  - HasOptedOutOfEmail
+  - HasOptedOutOfFax

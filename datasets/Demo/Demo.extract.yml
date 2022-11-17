@@ -1,0 +1,6 @@
+extract:
+  Contact:
+    fields:
+    - FirstName
+    - LastName
+    - Is_Test__c
